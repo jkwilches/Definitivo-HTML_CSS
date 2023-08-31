@@ -1,8 +1,13 @@
 .main-nav {
   margin-top: 10px;
   list-style: none;
-  padding-left: 0;
+  padding: 8px;
+  border-radius: 4px;
   background-color: #13a4a4;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
 }
 
 .main-nav__item {
