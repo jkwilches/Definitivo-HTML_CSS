@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* p {
+  font-size: 16px;
+} */
+
+.main {
+  background-color: red;
+  width: 600px;
+  height: 500px;
+}
+
+.em-p {
+  font-size: 24px;
+}
+.em {
+  font-size: 1.6em;
+}
+
+.rem {
+  font-size: 1.6rem;
+}

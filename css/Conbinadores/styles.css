@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Hermano cercano: solo al elemento que cumple la condicion de cercania */
+/* h2 + p {
+  color: red;
+} */
+
+/* Hermano general aplica a todos lo elementos bajo la primera etiqueta*/
+/* h2 ~ p {
+  color: blue;
+} */
+
+/* Hijo y decendiente */
+div > p {
+  color: rgb(50, 160, 6);
+}
+
+div p {
+  color: rgb(73, 0, 190);
+}
