@@ -28,3 +28,19 @@ html {
 .rem {
   font-size: 1.6rem;
 }
+
+main {
+  width: 50vw;
+  height: 50vh;
+  background-color: purple;
+}
+
+.section-m {
+  width: 80%;
+  min-width: 320px;
+  max-width: 500px;
+  min-height: 400px;
+  margin: 0 auto;
+  background-color: red;
+  font-size: 1.6rem;
+}
